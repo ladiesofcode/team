@@ -1,18 +1,18 @@
-# Ladies of Code Chapter Leaders 
+# Ladies of Code Chapter Leaders
 
-Current LoC chapter leads. Please update if your team changes. If you require admin access for new members then please [email HQ](hello@ladiesofcode.com) 
+Current LoC chapter leads. Please update if your team changes. If you require admin access for new members then please [email HQ](hello@ladiesofcode.com).
 
 #HQ
 
 [Angie Maguire](https://twitter.com/lalamaguire)
 
-[Nikki Sherry](https://twitter.com/smallsherry) 
+[Nikki Sherry](https://twitter.com/smallsherry)
 
-#Website 
+#Website
 
 [Kimberley Cook](https://twitter.com/kimberleycook91)
 
-#London 
+#London
 
 [Ines Teles](https://twitter.com/iteles)
 
@@ -22,37 +22,36 @@ Current LoC chapter leads. Please update if your team changes. If you require ad
 
 [Amy Yang](https://twitter.com/aycyang)
 
-Claudia Bedin
 
-Ines Pons 
+[Ines Pons](https://twitter.com/binusida)
 
-#Manchester 
+#Manchester
 
-[Laura Ionescu](https://twitter.com/lauraionescu1) 
+[Laura Ionescu](https://twitter.com/lauraionescu1)
 
-[Danielle H Wilson](https://twitter.com/MrsDHW) 
+[Danielle H Wilson](https://twitter.com/MrsDHW)
 
 [Ann Ledwith](https://uk.linkedin.com/in/ann-ledwith-113667a9)
 
-#Glasgow 
+#Glasgow
 
-[Carole Logan](https://twitter.com/crgrieve) 
+[Carole Logan](https://twitter.com/crgrieve)
 
-Katie Milne 
+Katie Milne
 
-#Paris 
+#Paris
 
 [Ludwine Probst](https://twitter.com/nivdul)
 
-[Saskia Bosma](https://twitter.com/APIkitties) 
+[Saskia Bosma](https://twitter.com/APIkitties)
 
 [Catherine](https://twitter.com/Zebrilee)
- 
+
 
 #Leeds
 
-[Natasha Sayce Zelem](https://twitter.com/unharmonic) 
+[Natasha Sayce Zelem](https://twitter.com/unharmonic)
 
-#Birmingham 
+#Birmingham
 
 [Jessica Rose](https://twitter.com/jesslynnrose)
