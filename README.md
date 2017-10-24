@@ -8,10 +8,6 @@ Current LoC chapter leads. Please update if your team changes. If you require ad
 
 [Nikki Sherry](https://twitter.com/smallsherry)
 
-#Website
-
-[Kimberley Cook](https://twitter.com/kimberleycook91)
-
 #London
 
 [Ines Teles](https://twitter.com/iteles)
@@ -21,7 +17,6 @@ Current LoC chapter leads. Please update if your team changes. If you require ad
 [Natalia Baltazar](https://twitter.com/NataliaLKB)
 
 [Amy Yang](https://twitter.com/aycyang)
-
 
 [Ines Pons](https://twitter.com/binusida)
 
@@ -37,7 +32,7 @@ Current LoC chapter leads. Please update if your team changes. If you require ad
 
 [Carole Logan](https://twitter.com/crgrieve)
 
-Katie Milne
+[Fiona Heath](https://twitter.com/fieheath)
 
 #Paris
 
@@ -51,6 +46,10 @@ Katie Milne
 #Leeds
 
 [Natasha Sayce Zelem](https://twitter.com/unharmonic)
+
+[Shi](https://twitter.com/shi)
+
+[Lauren Lewis](https://twitter.com/lori_lew)
 
 #Birmingham
 
