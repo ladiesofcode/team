@@ -2,13 +2,13 @@
 
 Current LoC chapter leads. Please update if your team changes. If you require admin access for new members then please [email HQ](hello@ladiesofcode.com).
 
-#HQ
+## HQ
 
 [Angie Maguire](https://twitter.com/lalamaguire)
 
 [Nikki Sherry](https://twitter.com/smallsherry)
 
-#London
+## London
 
 [Ines Teles](https://twitter.com/iteles)
 
@@ -20,7 +20,7 @@ Current LoC chapter leads. Please update if your team changes. If you require ad
 
 [Ines Pons](https://twitter.com/binusida)
 
-#Manchester
+## Manchester
 
 [Laura Ionescu](https://twitter.com/lauraionescu1)
 
@@ -28,13 +28,13 @@ Current LoC chapter leads. Please update if your team changes. If you require ad
 
 [Ann Ledwith](https://uk.linkedin.com/in/ann-ledwith-113667a9)
 
-#Glasgow
+## Glasgow
 
 [Carole Logan](https://twitter.com/crgrieve)
 
 [Fiona Heath](https://twitter.com/fieheath)
 
-#Paris
+## Paris
 
 [Ludwine Probst](https://twitter.com/nivdul)
 
@@ -42,8 +42,7 @@ Current LoC chapter leads. Please update if your team changes. If you require ad
 
 [Catherine](https://twitter.com/Zebrilee)
 
-
-#Leeds
+## Leeds
 
 [Natasha Sayce Zelem](https://twitter.com/unharmonic)
 
@@ -51,6 +50,6 @@ Current LoC chapter leads. Please update if your team changes. If you require ad
 
 [Lauren Lewis](https://twitter.com/lori_lew)
 
-#Birmingham
+## Birmingham
 
 [Jessica Rose](https://twitter.com/jesslynnrose)
