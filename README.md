@@ -1,6 +1,6 @@
 # Ladies of Code Chapter Leaders
 
-Current LoC chapter leads. Please update if your team changes. If you require admin access for new members then please [email HQ](hello@ladiesofcode.com).
+Current LoC chapter leads. Please update if your team changes. If you require admin access for new members then please [email HQ](mailto:hello@ladiesofcode.com).
 
 #HQ
 
