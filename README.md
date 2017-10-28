@@ -14,11 +14,15 @@ Current LoC chapter leads. Please update if your team changes. If you require ad
 
 [Rabea Gleissner](https://twitter.com/aebar)
 
-[Natalia Baltazar](https://twitter.com/NataliaLKB)
-
 [Amy Yang](https://twitter.com/aycyang)
 
 [Ines Pons](https://twitter.com/binusida)
+
+[Anna Del Prete](https://twitter.com/shilaghae)
+
+[Diana Vadai](https://twitter.com/diavadai)
+
+[Elena Beccaro](https://twitter.com/elena18944975)
 
 ## Manchester
 
