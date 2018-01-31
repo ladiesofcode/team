@@ -24,6 +24,8 @@ Current LoC chapter leads. Please update if your team changes. If you require ad
 
 [Elena Beccaro](https://twitter.com/elena18944975)
 
+[Suze Shardlow](https://www.linkedin.com/in/suzeshardlow)
+
 ## Manchester
 
 [Laura Ionescu](https://twitter.com/lauraionescu1)
