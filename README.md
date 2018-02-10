@@ -12,8 +12,6 @@ Current LoC chapter leads. Please update if your team changes. If you require ad
 
 [Ines Teles](https://twitter.com/iteles)
 
-[Rabea Gleissner](https://twitter.com/aebar)
-
 [Amy Yang](https://twitter.com/aycyang)
 
 [Ines Pons](https://twitter.com/binusida)
