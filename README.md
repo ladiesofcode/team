@@ -55,3 +55,7 @@ Current LoC chapter leads. Please update if your team changes. If you require ad
 ## Birmingham
 
 [Jessica Rose](https://twitter.com/jesslynnrose)
+
+## Liverpool
+
+[Jacquie Steele](https://twitter.com/holajacquie)
