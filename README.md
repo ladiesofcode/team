@@ -10,15 +10,7 @@ Current LoC chapter leads. Please update if your team changes. If you require ad
 
 ## London
 
-[Ines Teles](https://twitter.com/iteles)
-
-[Amy Yang](https://twitter.com/aycyang)
-
-[Ines Pons](https://twitter.com/binusida)
-
 [Anna Del Prete](https://twitter.com/shilaghae)
-
-[Diana Vadai](https://twitter.com/diavadai)
 
 [Suze Shardlow](https://www.linkedin.com/in/suzeshardlow)
 
