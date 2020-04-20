@@ -14,6 +14,8 @@ Current LoC chapter leads. Please update if your team changes. If you require ad
 
 [Suze Shardlow](https://www.linkedin.com/in/suzeshardlow)
 
+[Sarah Usher](https://twitter.com/SarahNUsher)
+
 ## Manchester
 
 [Laura Ionescu](https://twitter.com/lauraionescu1)
@@ -36,6 +38,12 @@ Current LoC chapter leads. Please update if your team changes. If you require ad
 
 [Catherine](https://twitter.com/Zebrilee)
 
+## Cologne
+
+[Laura Ionescu](https://twitter.com/lauraionescu1)
+
+[Kirandeep Kaur](https://twitter.com/ekiran)
+
 ## Leeds
 
 [Natasha Sayce Zelem](https://twitter.com/unharmonic)
@@ -44,10 +52,10 @@ Current LoC chapter leads. Please update if your team changes. If you require ad
 
 [Lauren Lewis](https://twitter.com/lori_lew)
 
-## Birmingham
-
-[Jessica Rose](https://twitter.com/jesslynnrose)
-
 ## Liverpool
 
 [Jacquie Steele](https://twitter.com/holajacquie)
+
+## Newcastle
+
+#TBA
