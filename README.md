@@ -38,7 +38,7 @@ Current LoC chapter leads. Please update if your team changes. If you require ad
 
 [Morgane Flauder](https://github.com/Morgane-Flauder)
 
-[Anna Breyer]
+Anna Breyer
 
 ## Cologne
 
