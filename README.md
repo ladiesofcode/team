@@ -32,11 +32,13 @@ Current LoC chapter leads. Please update if your team changes. If you require ad
 
 ## Paris
 
-[Ludwine Probst](https://twitter.com/nivdul)
+[Laïla Atrmouh](https://twitter.com/leiluspocus?lang=en)
 
-[Saskia Bosma](https://twitter.com/APIkitties)
+[Aude S Rouaux](https://github.com/assuzzanne)
 
-[Catherine](https://twitter.com/Zebrilee)
+[Morgane Flauder](https://github.com/Morgane-Flauder)
+
+[Anna Breyer]
 
 ## Cologne
 
